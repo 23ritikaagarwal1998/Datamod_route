@@ -1,0 +1,31 @@
+.titlecolor{
+    color: #0072c3;
+    padding-top: 20px;
+    padding-left: 14px;
+    height: 80px;
+}
+
+.buttonstyle{
+    text-align: center;
+    vertical-align: middle;
+    padding-left: 602px;
+    padding-bottom: 1%;
+}
+
+.rowC{
+    display:flex; 
+    flex-direction:row;
+    width: 100%;
+}
+
+.vl {
+    border: 2px solid rgb(141, 141, 141);
+    height: 500px;
+    position: absolute;
+  }
+
+.bx--btn--primary{
+    padding:0%;
+    padding-left: 7%;
+
+}

@@ -1,0 +1,14 @@
+.bx--header{
+background-color: white;
+padding-top:20px;
+padding-left: 80px;
+ height: 80px;
+}
+
+.bx--tile{
+background-color: white;
+padding: 90px;
+padding-left: 100px;
+width: 100%;
+align: center;
+}

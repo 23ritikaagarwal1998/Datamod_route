@@ -1,0 +1,22 @@
+.metadataColors{
+    color: #325C80;
+    font-size: small;
+    padding: 4px;
+    border-bottom: 1.5px solid #DDD;
+}
+
+.tablestyle{
+    border: 0px solid gray;
+    border-collapse:collapse;
+    width: 100%;
+    border-spacing: 10px;
+    color: #325C80;
+    background-color:whitesmoke;
+}
+
+li {
+    padding-left: 5px;
+    padding-bottom: 10px;
+    font-size: small;
+    background-color: white;
+}

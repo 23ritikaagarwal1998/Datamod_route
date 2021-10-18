@@ -1,0 +1,11 @@
+svg.my-custom-class {
+    fill: green;
+  }
+
+  svg.my-custom-class-opt {
+    fill: #f1c21b;
+  }
+  svg.refresh-color{
+    fill:#0f62fe;
+    float: right;
+  }

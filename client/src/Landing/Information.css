@@ -1,0 +1,10 @@
+.required-field::before{
+    content: "*";
+    color: red;
+    float: left;
+  }
+
+.textinputfield{
+  margin-bottom: 2rem;
+  width: 79%;
+}
